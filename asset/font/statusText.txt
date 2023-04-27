@@ -1,0 +1,7 @@
+SUCCEEDED
+FAILED
+PAUSE
+Replay
+Next Level
+Back To Menu
+Press ESC to return

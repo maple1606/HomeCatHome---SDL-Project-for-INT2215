@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1682511793 source:d:\ltnc\homecathome\main.cpp
+	"MainControl.h"
+
+1682439882 source:d:\ltnc\homecathome\src\audio.cpp
+	"Audio.h"
+	"constant.h"
+
+1682247491 source:d:\ltnc\homecathome\src\background.cpp
+	"Background.h"
+
+1682247491 source:d:\ltnc\homecathome\src\button.cpp
+	"Button.h"
+
+1682528024 source:d:\ltnc\homecathome\src\character.cpp
+	"Character.h"
+
+1682394144 source:d:\ltnc\homecathome\src\easy.cpp
+	"Easy.h"
+
+1682577096 source:d:\ltnc\homecathome\src\hard.cpp
+	"Hard.h"
+
+1682525709 source:d:\ltnc\homecathome\src\instruction.cpp
+	"Instruction.h"
+	"constant.h"
+	<fstream>
+
+1682357508 source:d:\ltnc\homecathome\src\item.cpp
+	"Item.h"
+
+1682527619 source:d:\ltnc\homecathome\src\level.cpp
+	"Level.h"
+
+1682554974 source:d:\ltnc\homecathome\src\ltexture.cpp
+	"LTexture.h"
+
+1682312672 source:d:\ltnc\homecathome\src\mainmenu.cpp
+	"MainMenu.h"
+	<fstream>
+
+1682406287 source:d:\ltnc\homecathome\src\normal.cpp
+	"Normal.h"
+
+1682577534 source:d:\ltnc\homecathome\src\notiboard.cpp
+	"NotiBoard.h"
+	<fstream>
+	<iostream>
+
+1682249520 source:d:\ltnc\homecathome\src\puzzle.cpp
+	"Puzzle.h"
+
+1682579398 source:d:\ltnc\homecathome\src\maincontrol.cpp
+	"MainControl.h"
+
