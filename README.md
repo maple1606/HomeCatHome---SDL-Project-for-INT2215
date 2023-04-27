@@ -45,7 +45,7 @@ them to navigate through the levels.
 ## Credits
 
 ### :crown: Original Game Paper Theater
-Kudos to everyone behind this wonderful game! Whoever comes up with the puzzles must be a mastermind.
+Kudos to everyone behind this wonderful game! Whoever came up with the puzzles must be a mastermind.
 
 ### :art: Artworks
    *  The character's sprite is a free vector from the Internet.
