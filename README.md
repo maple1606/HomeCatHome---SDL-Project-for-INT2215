@@ -4,7 +4,7 @@ A project for 2023 UET Advanced Programming
 
 ## Introduction
 
-A SDL2 C++ clone of Genshin Impact's compellingly challenging Paper Theater.
+An SDL2 C++ clone of Genshin Impact's compellingly challenging Paper Theater.
 
 ![normal](https://user-images.githubusercontent.com/97957290/234909341-355effd6-ab2d-4b26-a7b9-0f93dc5a9bf1.png)
 
