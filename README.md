@@ -39,8 +39,8 @@ Do not touch the traps, or the character would injure badly. You'll have to star
 
 **Gameplay Note**
 - Press ESC to pause.                
-- Some items give you special abilities, leverage 
-them to navigate through the levels.
+- Some items give you special abilities, leverage them to navigate through the levels.
+- ~~In case you encounter any bug, please press ESC and replay, since I received my grade I'm too lazy to fix.~~
 
 ## Credits
 
