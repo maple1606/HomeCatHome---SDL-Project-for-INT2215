@@ -64,5 +64,5 @@ Soundtrack from my favorite game [Animal Crossing](https://downloads.khinsider.c
 
 ### :computer: Source code
   - SDL2 templates from [Lazy Foo](https://lazyfoo.net/tutorials/SDL/index.php)
-  - Others were written by me
+  
 
