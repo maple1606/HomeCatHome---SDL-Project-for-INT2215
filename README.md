@@ -55,7 +55,7 @@ Kudos to everyone behind this wonderful game! Whoever came up with the puzzles m
 ### :musical_note: Audio
 Soundtrack from my favorite game [Animal Crossing](https://downloads.khinsider.com/game-soundtracks/album/animal-crossing-let-s-go-to-the-city)
 
-| Mode | Track tile |
+| Mode | Track title |
 | ------------- | -------------  |
 | Menu | 7 A.M. (Normal) |
 | Easy  | Museum (Entrance) |  
