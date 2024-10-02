@@ -50,7 +50,7 @@ Do not touch the traps, or the character would injure badly. You'll have to star
 Kudos to everyone behind this wonderful game! Whoever came up with the puzzles must be a mastermind.
 
 ### :art: Artworks
-   *  The character's sprite is a free vector from the Internet.
+   *  The character's sprite is a free one i take from the Internet.
    *  Background effects from Canva.
    *  Pixel materials drawn by me, with the help of the app Pixel Studio.
 
